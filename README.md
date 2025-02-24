@@ -1,2 +1,1 @@
-# public
-Public repostitory
+# Public repository
